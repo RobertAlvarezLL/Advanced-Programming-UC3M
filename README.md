@@ -34,6 +34,6 @@ The repository contains a pynb file detailing the analysis process, from data ex
 
 ## Collaboration
 
-This project was developed with Marcos Crespo as part of [MSc Statistics for Data Science/UC3M],
+This project was developed with Marcos Crespo as part of the project for the Advanced Programming subject in the MSc Statistics for Data Science at UC3M
 
 
